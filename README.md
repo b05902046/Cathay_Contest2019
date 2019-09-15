@@ -1,6 +1,6 @@
 # Cathay_Contest2019  
-##Contributor: 廖昱誠,姜成翰,李佳忞,林昱賢  
-###Last Updated: 2019/09/15  
+## Contributor: 廖昱誠,姜成翰,李佳忞,林昱賢  
+### Last Updated: 2019/09/15  
 Files:  
 
 檔名 					| 說明
@@ -26,12 +26,12 @@ shaun					| 昱賢的資料夾
 Issues:  
 
 
-###Note
+### Note
 大家每次上傳的時候麻煩順便更新一下README，寫一下個人進度更新，還有檔案的說明~
 如果不會markdown的話，可以看看這個[連結](https://guides.github.com/features/mastering-markdown/)
 
 *大家比賽加油~*  
-> ###We are slow walkers, but we never move backward.
+> ### We are slow walkers, but we never move backward.
 
 <div style="text-align: right">By Shaun</div>
 
