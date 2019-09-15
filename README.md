@@ -11,10 +11,12 @@ train_ans.csv. 		| training data的答案
 Cathay_DNN.py DNN   | DNN模型
 Cathay_DNN.ipynb.   | DNN模型 for jupyter
 newtrain.csv			| 去NA的train.csv
+shaun					| 昱賢的資料夾
 
 個人進度：  
 
-*  昱賢:
+*  昱賢:  
+  9/15：用隨機分類樹train沒Nan的資料，train出的準確率約97%，可能overfit
 *  昱誠:
 *  佳忞:
 *  成翰:
