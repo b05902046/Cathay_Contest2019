@@ -1,6 +1,6 @@
 # Cathay_Contest2019
 ##Contributor: 廖昱誠,姜成翰,李佳忞,林昱賢
-###Last Updated: 2019/09/14 
+###Last Updated: 2019/09/15 
 Files:  
 
 檔名 					| 說明
@@ -14,13 +14,14 @@ newtrain.csv			| 去NA的train.csv
 
 個人進度：  
 
-*  昱賢
-*  昱誠
-*  佳忞
-*  成翰
+*  昱賢:
+*  昱誠:
+*  佳忞:
+*  成翰:
 
 目前比賽準確率 ==> 
 
+Issues:
 
 
 ###Note
@@ -28,7 +29,7 @@ newtrain.csv			| 去NA的train.csv
 如果不會markdown的話，可以看看這個[連結](https://guides.github.com/features/mastering-markdown/)
 
 *大家比賽加油~*
->We are slow workers, but we never move backward
+>###We are slow walkers, but we never move backward.
 
 <div style="text-align: right">By Shaun</div>
 
