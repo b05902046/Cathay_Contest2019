@@ -18,7 +18,8 @@ shaun					| 昱賢的資料夾
 *  昱賢:  
   9/15：用隨機分類樹train沒Nan的資料，train出的準確率約97%，可能overfit
 *  昱誠:  
-  9/16: 資料不平均的問題待處理
+  9/16: random forest 在balanced上約0.5
+        complementNB 在unbalanced約0.74
 *  佳忞:  
 *  成翰:  
 
