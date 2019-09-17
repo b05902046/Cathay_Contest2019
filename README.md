@@ -15,6 +15,7 @@ shaun					| 昱賢的資料夾
 newtest.csv   | 去NA的test.csv
 output        | 上傳的csv檔
 getNewCSV.py  | 待補
+
 個人進度：  
 
 *  昱賢:  
