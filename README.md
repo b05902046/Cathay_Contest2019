@@ -1,6 +1,6 @@
 # Cathay_Contest2019  
 ## Contributor: 廖昱誠,姜成翰,李佳忞,林昱賢  
-### Last Updated: 2019/09/15  
+### Last Updated: 2019/09/17  
 Files:  
 
 檔名 					| 說明
@@ -12,7 +12,9 @@ Cathay_DNN.py DNN   | DNN模型
 Cathay_DNN.ipynb.   | DNN模型 for jupyter
 newtrain.csv			| 去NA的train.csv
 shaun					| 昱賢的資料夾
-
+newtest.csv   | 去NA的test.csv
+output        | 上傳的csv檔
+getNewCSV.py  | 待補
 個人進度：  
 
 *  昱賢:  
