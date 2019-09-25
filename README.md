@@ -22,12 +22,12 @@ getNewCSV.py  | 待補
 *  昱賢:  
   9/15：用隨機分類樹train沒Nan的資料，train出的準確率約97%，可能overfit
 *  昱誠:  
-  9/16: random forest 在balanced上約0.5
-        complementNB 在unbalanced約0.74
-  9/25: 使用imblearn做data resampling, 最後再用SVM classifier分類 
-        用   SMOTE resample 後, 準確率0.7307411168 
-        用 ADASYN resample 後, 準確率0.7343147208 
-        ------------------------------------------ 
+  9/16: random forest 在balanced上約0.5  
+        complementNB 在unbalanced約0.74  
+  9/25: 使用imblearn做data resampling, 最後再用SVM classifier分類  
+        用   SMOTE resample 後, 準確率0.7307411168  
+        用 ADASYN resample 後, 準確率0.7343147208  
+        ------------------------------------------  
         可以試試看ADASYNC後的data拿給不同calssifier train, 可能有機會破紀錄
 *  佳忞:  
 *  成翰:  
