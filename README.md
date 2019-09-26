@@ -28,7 +28,7 @@ getNewCSV.py  | 待補
         用   SMOTE resample 後, 準確率0.7307411168  
         用 ADASYN resample 後, 準確率0.7343147208  
         ------------------------------------------  
-        可以試試看ADASYNC後的data拿給不同calssifier train, 可能有機會破紀錄
+        可以試試看ADASYN後的data拿給不同calssifier train, 可能有機會破紀錄
 *  佳忞:  
 *  成翰:  
 
