@@ -9,7 +9,7 @@ x_train, x_vali, y_train, y_vali = train_test_split(train_feature, train_label, 
 print(len(x_train), len(x_train.columns))
 print(len(x_vali), len(x_vali.columns))
 
-Xtr, Ytr = util.balanceData(x_train, y_train)
+Xtr, Ytr = util.balanceData(x_train, y_train, 'ADASYN')
 
 print(type(Xtr))
 print(type(Ytr))
