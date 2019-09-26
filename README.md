@@ -31,6 +31,7 @@ getNewCSV.py  | 待補
         可以試試看ADASYN後的data拿給不同calssifier train, 可能有機會破紀錄
 *  佳忞:  
 *  成翰:  
+  9/26: 用 deep variational information bottleneck 防止 overfit。
 
 目前比賽準確率 ==> 0.7359390863
 
