@@ -31,8 +31,30 @@ getNewCSV.py  | 待補
         可以試試看ADASYN後的data拿給不同calssifier train, 可能有機會破紀錄
 *  佳忞:  
 *  成翰:  
-  9/26: 用 deep variational information bottleneck 防止 overfit。
-
+  9/26: 用 deep variational information bottleneck 防止 overfit, 失敗  
+  9/27: Use DNN as binary classifier, model architecture and params are as follow: 
+  
+  Layers  | Type
+  ------------------	| ------------------
+  1  |  Dense(121, 256)
+  2  |  Dropout(p = 0.9)
+  3  |  Dense(256, 192)
+  4  |  Dropout(p = 0.7)
+  5  |  Dense(192, 128)
+  6  |  Dense(128, 64)
+  7  |  Dense(64, 2)
+  
+  Params | Discription
+  -- | --
+  Batch size| 19563
+  Learning rate | 0.005
+  Optimizer | Adam
+  Objective | Hinge loss
+  Epoch | 200
+  Step  | 9
+  Input dims | 121
+  
+  
 目前比賽準確率 ==> 0.7359390863
 
 Issues:  
